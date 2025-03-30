@@ -20,11 +20,11 @@ body{
     align-items: center;
 
 
-    margin-bottom: 100px;
+    margin-bottom: 400px;
       justify-content: center;
     gap: 10px;
     box-shadow: 13px 13px 13px 13px  #065481;
-    padding:30px;
+    padding:20px;
  
     border-radius: 10px;
     transform: rotate(-1deg);
