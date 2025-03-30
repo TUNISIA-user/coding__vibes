@@ -24,7 +24,7 @@ body{
       justify-content: center;
     gap: 10px;
     box-shadow: 13px 13px 13px 13px  #065481;
-    padding:20px;
+    padding:10px;
  
     border-radius: 10px;
     transform: rotate(-1deg);
@@ -33,7 +33,7 @@ body{
 }
 
 .lovers h1{
-    font-size: 30px;
+    font-size: 20px;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   color: #c0c0c0;
   color: #d4d3d0;
