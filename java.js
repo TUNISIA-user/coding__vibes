@@ -1,4 +1,4 @@
-const word = "Just a quick note to tell you how much I appreciate you,.You make everything brighter, and I can’t wait to see your face.and We are one team  forever ❤️"
+const word = "Just a quick note to tell you how much I appreciate you,.You make everything brighter, and I can’t wait to see your face.and We are one team  forever❤️"
 
 const button  = document.getElementById("button")
 const words = document.getElementById("words")
