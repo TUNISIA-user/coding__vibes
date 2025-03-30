@@ -8,7 +8,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 90vh;
+    height: 100vh;
    background-image: url("./t.jpg");
    /* background-position: center;
    object-fit: contain;
@@ -18,6 +18,8 @@ body{
 .lovers{
     display: flex;
     align-items: center;
+
+      justify-content: center;
     gap: 10px;
     box-shadow: 13px 13px 13px 13px  #065481;
     padding:30px;
